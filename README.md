@@ -27,7 +27,7 @@ as a dependency in `west.yml`. Example:
 ```
 
 > **NOTE:** this project depends on a custom fork of Zephyr hosted at
-> [marekmaskarinec/zephyr](https://github.com/hardwario/zephyr), which mainly
+> [marekmaskarinec/zephyr](https://github.com/marekmaskarinec/zephyr), which mainly
 > adds support for the stm32l083 soc. The fork is not being actively kept up-to-date.
 
 ---
